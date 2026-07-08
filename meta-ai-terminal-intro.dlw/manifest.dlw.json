@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-META_AI_TERMINAL_INTRO",
+  "name": "META-AI:~$ · MET",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦META-AI:~$ · MET:meta-ai-terminal-intro:575ae9⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "575ae955b3b72c1462d54680ddb5d09579462a30974a947c02bb16f40eebfc6c",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
